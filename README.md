@@ -1,4 +1,4 @@
-# Flight Delay Analytics — DAMG7370 Final Project
+# Flight Delay Analytics - DAMG7370 Final Project
 
 End-to-end data engineering pipeline on AWS
 
