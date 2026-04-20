@@ -3,7 +3,7 @@
 End-to-end cloud-based data engineering pipeline for flight delay 
 analysis and prediction, built on AWS.
 
-**Course:** DAMG 7370 — Designing Data Architecture for Business Intelligence  
+**Course:** DAMG 7370 - Designing Data Architecture for Business Intelligence  
 **Student:** Varun Gehlot | Northeastern University Seattle | Spring 2026
 
 
